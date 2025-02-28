@@ -6,7 +6,7 @@ public class Ej3Hoja2{
 			String cadena;
 			int num1;
 			int num2;
-			Syste.out.print("Introduce un número entero: ");
+			System.out.print("Introduce un número entero: ");
 			cadena=teclado.readLine();
 			num1=Integer.parseInt(cadena);
 			System.out.print("Introduce otro número entero: ");
